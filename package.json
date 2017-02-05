@@ -1,0 +1,23 @@
+{
+  "name": "test-proj",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gibson35/test.git"
+  },
+  "keywords": [
+    "test",
+    "study"
+  ],
+  "author": "gibson35",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gibson35/test/issues"
+  },
+  "homepage": "https://github.com/gibson35/test#readme"
+}
